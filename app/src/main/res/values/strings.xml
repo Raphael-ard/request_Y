@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">龠_Y</string>
+    <string name="Settings_notice">啥也没有</string>
+    <string name="header_notice1">待完善</string>
+    <string name="header_username">龠_Y</string>
+    <string name="nav_pyq">朋友圈文章</string>
+    <string name="nav_chp">彩虹屁</string>
+    <string name="nav_djt">毒鸡汤</string>
+    <string name="nav_web">百度</string>
+    <string name="help">帮助</string>
+    <string name="toolbar_save">保存</string>
+    <string name="toolbar_clear">清空</string>
+    <string name="toolbar_settings">设置</string>
+    <string name="web_notice1">回到主页</string>
+    <string name="web_tobrowser">跳转至浏览器</string>
+    <string name="web_exit">退出Web界面</string>
+</resources>

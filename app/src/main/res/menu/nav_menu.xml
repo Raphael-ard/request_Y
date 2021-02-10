@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/nav_article"
+            android:title="@string/nav_pyq" />
+        <item
+            android:id="@+id/nav_terms"
+            android:title="@string/nav_chp" />
+        <item
+            android:id="@+id/nav_djt"
+            android:title="@string/nav_djt" />
+        <item
+            android:id="@+id/baidu"
+            android:title="@string/nav_web" />
+        <item
+            android:id="@+id/help"
+            android:title="@string/help" />
+    </group>
+</menu>
